@@ -15,4 +15,4 @@ Eozin Che [eozin.che@gmail.com]
 
 ## License
 
-This project is licensed under the [Creative Commons Zero v1.0] License - see the LICENSE.md file for details
+This project is licensed under the Creative Commons Zero v1.0 License - see the LICENSE.md file for details
