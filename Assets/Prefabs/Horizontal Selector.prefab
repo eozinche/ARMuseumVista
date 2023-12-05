@@ -336,7 +336,7 @@ GameObject:
   - component: {fileID: 338028298376283364}
   - component: {fileID: 8832326227500362500}
   m_Layer: 5
-  m_Name: Horizontal Selector 1
+  m_Name: Horizontal Selector
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
