@@ -12,7 +12,7 @@ Link : https://awesome-github-readme-profile.netlify.app
 ## Authors
 
 Eozin Che
-[Email](eozin.che@gmail.com)
+[email]<a href="eozin.che@gmail.com">
 
 
 ## License
