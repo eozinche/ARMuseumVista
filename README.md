@@ -8,10 +8,6 @@ Picture this – unlocking the rich tapestry of cultural heritage from museums, 
 
 The goal is simple yet transformative: enhance your museum experience inside and out with augmented reality. It's not about just entering; it's about engaging with the museum externally, offering tantalizing glimpses of current exhibitions, either before or after your immersive in-museum adventure.
 
-
-## Description
-An in-depth paragraph about your project and overview of use.
-
 ## Website
 
 itch.io project page [https://eozinche.itch.io/ar-museumvista]
