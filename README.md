@@ -13,7 +13,7 @@ An in-depth paragraph about your project and overview of use.
 ## Website
 
 Link : https://eozinche.itch.io/ar-museumvista
-<a href="https://eozinche.itch.io/ar-museumvista"><img src="https://raw.githubusercontent.com/elangosundar/awesome-README-templates/master/awesome-github-profile.png" alt="Awesome README Templates" /></a>
+<a href="https://eozinche.itch.io/ar-museumvista"><img src="https://img.itch.zone/aW1hZ2UvMjQwMjkxOS8xNDIyNjAxOS5qcGc=/original/fG1kI2.jpg" alt="Awesome README Templates" /></a>
 
 ## Authors
 
